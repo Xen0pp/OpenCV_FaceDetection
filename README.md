@@ -4,8 +4,6 @@
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-brightgreen?style=flat-square&logo=opencv)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=flat-square&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 **A comprehensive computer vision project for real-time face detection and recognition using OpenCV, Haar Cascades, and Machine Learning (KNN)**
 
@@ -345,8 +343,8 @@ cap = cv2.VideoCapture(1)
 ```bash
 # 1. First time setup
 python Face_Data.py
-# Enter: Riya (10 samples)
-# Enter: Shubham (10 samples)
+# Enter: Mohit (10 samples)
+# Enter: Robot (10 samples)
 
 # 2. Train and recognize
 python FaceRecog.py
