@@ -1,0 +1,18 @@
+# OpenCV Basic - Face Detection & Recognition System
+# Python 3.7+
+
+# Core Computer Vision
+opencv-python==4.8.0.74
+
+# Numerical Computing
+numpy==1.24.3
+
+# Machine Learning
+scikit-learn==1.3.0
+
+# Jupyter Notebook (Optional - for interactive development)
+jupyter==1.0.0
+ipython==8.14.0
+
+# Additional utilities (Optional)
+matplotlib==3.7.2  # For visualization
